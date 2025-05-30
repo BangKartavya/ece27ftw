@@ -1,40 +1,75 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+# 📚 ECE Batch 2027 Resource Hub
 
-## Getting Started
+Welcome to the **Ultimate Resource Hub** for the **Electronics and Communication Engineering (ECE) Batch of 2027**!
 
-First, run the development server:
+This repository is home to a powerful website that connects students directly to a curated Google Drive folder containing **everything you need from Sem 1 to Sem 8** — including:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+- 📘 Standard Textbooks
+- 🖥️ Lecture Presentations
+- 📝 Question Papers (Mid & End Sem)
+- 📄 Lab Manuals
+- 📚 Notes & More
+
+---
+
+## 🌐 Live Website
+
+🚀 **Access the site here:** [https://ece27ftw.vercel.app](https://ece27ftw.vercel.app/)
+
+🎯 Built for students, by a student — simple, fast, and mobile-friendly.
+
+---
+
+## 🗂️ What's Inside the Google Drive?
+
+Organized by semester and category for effortless navigation:
+
+## 🗂️ What's Inside the Google Drive?
+
+Regular Updates
+
+Organized by semester and category for effortless navigation:
+
+```plaintext
+📁 ECE-2027-Resources
+├── Semester 1
+│   ├── Books/
+│   ├── Presentations/
+│   └── Question Papers/
+├── Semester 2
+│   ├── Books/
+│   ├── Presentations/
+│   └── Question Papers/
+├── Semester 3
+│   └── ...
+├── Semester 4
+│   └── ...
+├── Semester 5
+│   └── ...
+├── Semester 6
+│   └── ...
+├── Semester 7
+│   └── ...
+├── Semester 8
+│   └── ...
 ```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📬 Contact
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+Maintained by a fellow ECE student ❤️
+Feel free to reach out for suggestions, ideas, or collaboration.
 
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+📧 Email: [bangkartavya@gmail.com]
+🔗 LinkedIn: [linkedin.com/in/yourprofile](https://in.linkedin.com/in/kartavya-bang-0b5ba9288)
+🌍 Website: Coming Soon!
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## ⭐ Give a Star!
 
-## Learn More
+If this helped you or your friends, please consider ⭐ starring this repo. It motivates continued updates and improvements!
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+> _"Sharing knowledge empowers the entire batch. Let's grow together. 🌱"_
